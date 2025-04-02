@@ -1,0 +1,1 @@
+export { default } from "file:///Users/komo1iddin/Desktop/StudyBridge-Latest/v9/node_modules/.pnpm/@nuxt+vite-builder@3.16.2_eslint@9.23.0_jiti@2.4.2__lightningcss@1.29.2_magicast@0.3.5__87b6445b8928293cc221c4227cdf81af/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
